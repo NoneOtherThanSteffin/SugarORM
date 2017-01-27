@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SugarORM</string>
+    <string name="enterfruit">Enter Fruit Details:</string>
+    <string name="enterfruitname">Enter Fruit Name:</string>
+    <string name="enterfruitid">Enter Fruit ID</string>
+    <string name="enterfruitcolor">Enter Fruit Colour</string>
+    <string name="savefruit">Save fruit</string>
+    <string name="getfruitbyid">Get Fruit By ID</string>
+    <string name="deletefruitbyid">Delete Fruit By ID</string>
+</resources>
